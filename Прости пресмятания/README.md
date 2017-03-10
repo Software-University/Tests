@@ -1,4 +1,4 @@
-|Name|Contest|Max points|Time limit|Memory limit|Checker|Order|Source code size limit|Show results |
+|Name|Contest|Max points|Time limit|Memory limit|Checker|Order|Source code size limit|
 |----|-------|----------|----------|------------|-------|-----|----------------------|
 |Пресмятане на лице на квадрат|Прости пресмятания|100|100|16777216|Trim|0|16384|True |
 |Поздрав по име|Прости пресмятания|100|100|16777216|Trim|2|16384|True |
