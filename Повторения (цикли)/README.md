@@ -1,5 +1,4 @@
-|Name|Contest|Max points|Time limit|Memory limit|Checker|Order|Source code size limit
-|
+|Name|Contest|Max points|Time limit|Memory limit|Checker|Order|Source code size limit |
 |----|-------|----------|----------|------------|-------|-----|----------------------|
 |Числа от 1 до 100|Повторения (цикли)|100|100|16777216|Trim|0|16384 |
 |Числа до 1000, завършващи на 7|Повторения (цикли)|100|100|16777216|Trim|1|16384 |
