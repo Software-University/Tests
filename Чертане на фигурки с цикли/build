@@ -1,0 +1,11 @@
+wget https://judge.softuni.bg/Administration/Tests/Export/3010 -O "Правоъгълник от 10 x 10 звездички.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3031 -O "Правоъгълник от N x N звездички.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3032 -O "Квадрат от звездички.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3033 -O "Триъгълник от долари.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3034 -O "Квадратна рамка.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3035 -O "Ромбче от звездички.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3036 -O "Коледна елха.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3097 -O "Слънчеви очила.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3098 -O "Къщичка.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3099 -O "Диамант.zip"
+

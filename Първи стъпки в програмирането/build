@@ -1,0 +1,7 @@
+wget https://judge.softuni.bg/Administration/Tests/Export/3008 -O "Hello, Python!  .zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3037 -O "Expression .zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3038 -O "Числата от 1 до 20 .zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3039 -O "Триъгълник от 55 звездички .zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3040 -O "Лице на правоъгълник .zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3041 -O "Квадрат от звездички .zip"
+

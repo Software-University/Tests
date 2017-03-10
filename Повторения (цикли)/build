@@ -1,0 +1,13 @@
+wget https://judge.softuni.bg/Administration/Tests/Export/3085 -O "Числа от 1 до 100.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3086 -O "Числа до 1000, завършващи на 7.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3087 -O "Всички латински букви.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3088 -O "Сумиране на числа.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3089 -O "Най-голямо число.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3090 -O "Най-малко число.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3091 -O "Лява и дясна сума.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3092 -O "Четна / нечетна сума.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3093 -O "Сумиране на гласните букви.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3094 -O "Елемент, равен на сумата на останалите.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3095 -O "Четни / нечетни позиции.zip"
+wget https://judge.softuni.bg/Administration/Tests/Export/3096 -O "Еднакви двойки.zip"
+
